@@ -1,1 +1,1 @@
-# Quantum-Chemistry
+# Quantum-Chemistry-Learning-Project
