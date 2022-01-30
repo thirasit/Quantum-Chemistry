@@ -1,1 +1,1 @@
-# Quantum-Chemistry-Learning-Project
+# Quantum-ML-and-Chemistry-Learning-Project
